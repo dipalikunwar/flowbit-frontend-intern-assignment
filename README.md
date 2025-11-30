@@ -52,6 +52,9 @@ react-map-gl	Works best with Mapbox, not ideal for a public WMS endpoint
 Conclusion:
 Leaflet gives the best balance of performance + simplicity + WMS support.
 
+IMG: <img width="1436" height="928" alt="image" src="https://github.com/user-attachments/assets/a5e2e679-bf98-40dc-8755-c5ac567ff4bd" />
+
+
 🧱 Architecture Decisions
 ✔ Component-Based Structure
 src/
