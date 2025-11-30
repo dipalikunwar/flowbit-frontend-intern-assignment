@@ -28,7 +28,7 @@ npm run dev
 
 
 The app runs at:
-👉 http://localhost:5173
+👉 https://flowbit-frontend-intern-assignment.vercel.app/
 
 🗺️ Map Library Choice: Why Leaflet?
 ✔ Why I selected Leaflet
